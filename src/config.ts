@@ -16,7 +16,7 @@ const development: IConfig = {
 
 const production: IConfig = {
   ...base,
-  APIURL: "http://api.cooocc.com"
+  APIURL: "http://api.isdtj.com"
 }
 
 const config: Record<string, IConfig> = {
