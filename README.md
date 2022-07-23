@@ -1,4 +1,4 @@
-# Scaffold - 前端
+# DIY - 前端
 
 # 环境
 Node >= Lts
@@ -16,7 +16,7 @@ Node >= Lts
 # 运行
 - 克隆代码
 ```shell
-git clone https://github.com/foundation-studio/scaffold
+git clone https://github.com/Dengtianjian/diy-preview
 ```
 - 安装依赖
 ```shell
