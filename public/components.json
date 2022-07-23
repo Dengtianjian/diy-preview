@@ -1,0 +1,90 @@
+{
+  "statusCode": 200,
+  "code": 200000,
+  "data": [
+    {
+      "_id": "62c3fcceb140107fda2db1c3",
+      "name": "CButton",
+      "description": "\u6d4b\u8bd5\u7ec4\u4ef6111111",
+      "path": "62c3fcceb140107fda2db1c3\/index.js",
+      "cost": 0,
+      "title": null,
+      "tags": [],
+      "userId": "163575787565903c64f58966",
+      "organizationId": "",
+      "visibility": 1,
+      "cover": "https://t7.baidu.com/it/u=2621658848,3952322712&fm=193&f=GIF",
+      "previewImages": [],
+      "likes": 0,
+      "favorites": 0,
+      "platforms": {
+        "1": "1_1657011758508"
+      },
+      "categoryId": "1",
+      "scores": 0,
+      "occupiedColumns": 4,
+      "width": "0",
+      "buildIn": 0,
+      "tag": "CButton",
+      "createdAt": 1657011406,
+      "updatedAt": 1657017612
+    },
+    {
+      "_id": "62c4fd0a9c6f9edc0ef7f334",
+      "name": "DefaultContainer",
+      "description": "\u5bb9\u5668qgn",
+      "path": "",
+      "cost": 0,
+      "title": null,
+      "tags": [],
+      "userId": "163575787565903c64f58966",
+      "organizationId": "",
+      "visibility": 1,
+      "cover": "https://t7.baidu.com/it/u=1415984692,3889465312&fm=193&f=GIF",
+      "previewImages": [],
+      "likes": 0,
+      "favorites": 0,
+      "platforms": {
+        "1": "1_1657011758508"
+      },
+      "categoryId": "2",
+      "scores": 0,
+      "occupiedColumns": 12,
+      "width": "0",
+      "buildIn": true,
+      "tag": "DefaultContainer",
+      "createdAt": 1657011406,
+      "updatedAt": 1657017612
+    },
+    {
+      "_id": "62db594ef611b745ea254212",
+      "name": "CTitle",
+      "description": "\u6807\u98981111111111111111",
+      "path": "/components/CTitle.js",
+      "cost": 0,
+      "title": null,
+      "tags": [],
+      "userId": "163575787565903c64f58966",
+      "organizationId": "",
+      "visibility": 1,
+      "cover": "https://t7.baidu.com/it/u=3631608752,3069876728&fm=193&f=GIF",
+      "previewImages": [],
+      "likes": 0,
+      "favorites": 0,
+      "platforms": {
+        "1": "1_u2vhSdO3DE7fLlLC1658542414317"
+      },
+      "categoryId": "1",
+      "scores": 0,
+      "occupiedColumns": 2,
+      "width": "0",
+      "buildIn": false,
+      "tag": "CTitle",
+      "createdAt": 1658542414,
+      "updatedAt": 1658542414
+    }
+  ],
+  "message": "ok",
+  "version": "0.1.9.20220715.1537",
+  "details": []
+}

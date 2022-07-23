@@ -1,0 +1,79 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "jsx": "preserve",
+    "target": "ESNEXT",
+    "module": "esnext",
+    "strict": true,
+    "noImplicitAny": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "useDefineForClassFields": true,
+    "moduleResolution": "Node",
+    "charset": "utf8",
+    "allowJs": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noFallthroughCasesInSwitch": true,
+    "skipLibCheck": true,
+    "inlineSourceMap": true,
+    "importHelpers": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strictNullChecks": false,
+    "resolveJsonModule": true,
+    "paths": {
+      "@Api": [
+        "./src/api/modules"
+      ],
+      "Types": [
+        "./src/typings"
+      ],
+      "Components": [
+        "./src/components"
+      ],
+      "Views": [
+        "./src/views"
+      ],
+      "@Service": [
+        "./src/service"
+      ],
+      "Api": [
+        "./src/api/modules"
+      ],
+      "CC": [
+        "./src/components/common"
+      ],
+      "FC": [
+        "./src/components/front"
+      ],
+      "BC": [
+        "./src/components/back"
+      ],
+      "FV": [
+        "./src/views/front"
+      ],
+      "BV": [
+        "./src/views/back"
+      ],
+      "CV": [
+        "./src/views/common"
+      ],
+      "SV": [
+        "./src/views/system"
+      ],
+      "AM": [
+        "./src/api/modules"
+      ]
+    }
+  },
+  "exclude": [
+    "app/public",
+    "app/views",
+    "node_modules*",
+    "dist",
+    "public",
+    "outputs",
+    "*.js"
+  ]
+}

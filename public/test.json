@@ -1,0 +1,31 @@
+{
+  "rows": [
+    {
+      "style": {},
+      "height": 25,
+      "fixedHeight": false,
+      "columns": {}
+    },
+    {
+      "style": {},
+      "height": 76,
+      "fixedHeight": false,
+      "columns": {
+        "5": {
+          "index": 2,
+          "occupiedColumns": 20,
+          "componentName": "DefaultContainer",
+          "container": {
+            "rows": []
+          }
+        }
+      }
+    },
+    {
+      "style": {},
+      "height": 25,
+      "fixedHeight": false,
+      "columns": {}
+    }
+  ]
+}
